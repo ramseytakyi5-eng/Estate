@@ -1,0 +1,243 @@
+@media (max-width: 600px) {
+    nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.key{
+    display: flex;
+    color: rgb(238, 234, 234);
+    justify-content: space-between;
+    width: 400px;
+    margin-left: -40px;
+}
+.portofolio{
+    display: flex;
+    color: white;
+    justify-content: space-evenly;
+    width: 300px;
+    margin-left: -1px;
+}
+.logo2{
+    color: white;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.logo1{
+    color: blue;
+margin-top: 25px;
+    font-size: 14px;
+    margin-left: -62px;
+}
+.content > h1{
+    font-size: 40px;
+}
+.content{
+    margin-left: -2px;
+}
+.content > img{
+    width: 100px;
+    height: 50px;
+}
+.house > img{
+    width: 300px;
+    height: 600px;
+    margin-left: 100px;
+
+}
+.house1 > img{
+    width: 340px;
+    margin-left: 100px;
+}
+.admf > img{
+    margin-top: 30px;
+    width: 40px;
+}
+.group > img{
+    margin-left: 50px;
+    width: 480px;
+}
+.line3A > h1{
+    font-size: 25px;
+     margin-left: -270px;
+     width: 40px;
+}
+.line1A > P{
+    color: #c4c4c4;
+    width: 160px;
+}
+.line1B > P{
+    color: #c4c4c4;
+    width: 150px;
+}
+.line1C > P{
+    color: #c4c4c4;
+    width: 150px;
+}
+.line1A > img{
+  width: 150px;
+  height: 200px;
+  margin-left: -10px;
+}
+.line1B > img{
+  width: 150px;
+  height: 200px;
+  margin-left: -20px;
+}
+.line1C > img{
+  width: 150px;
+  height: 200px;
+  margin-left: -20px;
+}
+.line1A > h1{
+    font-size: 20px;
+}
+.line1B > h1{
+    font-size: 20px;
+}
+.line1C > h1{
+    font-size: 20px;
+}
+.page{
+    background-color: #f6f6f6;
+    width: 600px;
+}
+.our > h1{
+    font-size: 20px;
+    margin-left: 30px;
+    width: 150px;
+}
+.line2 > p{
+    margin-left: 50px;
+    margin-top: 40px;
+    font-size: 9px;
+    width: 350px;
+    color: #c4c4c4;
+}
+
+.container{
+    display: flex;
+    margin: 3px;
+    width: 500px;
+}
+.lett > p{
+    margin-left: -700px;
+    margin-top: 50px;
+}
+.display{
+    background-color: black;
+    color: white;
+    width: 600px;
+}
+.item{
+    display: flex;
+}
+
+button{
+    background-color: blue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    width: 75px;
+    height: 24px;
+}
+.letter{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    margin: 20px;
+    width: 75px;
+    margin-top: 90px;
+}
+.name{
+    width: 45px;
+    z-index: 6;
+    position: absolute;
+    margin-top: -150px;
+    margin-left: 70px;
+    height: 45px;
+}
+.house1{
+    margin-top: -70px;
+    width: 75px;
+    margin-left: -40px;
+}
+.house{
+    margin-top: -60px;
+    margin-left: -30px;
+}
+.rec{
+   width: 200px; 
+   height: 20px;
+}
+
+
+.line1{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+}
+.line3{
+    display: flex;
+    justify-content: space-around;
+    margin: 10px;
+}
+.one{
+    position: absolute;
+    z-index: 2;
+}
+.two{
+    position: absolute;
+    z-index: 3;
+    margin: 20px;
+}
+.three{
+    position: absolute;
+    z-index: 1;
+    margin: -10px;
+}
+.line4{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 180px;
+    margin: 20px;
+}
+.line5{
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 180px;
+    margin: 20px;
+}
+.four{
+    z-index: 4;
+    margin-left: -60px;
+}
+.five{
+    z-index: 5;
+ position: absolute;
+    margin-right: 200px;
+    margin-top: 50px;
+}
+.six{
+    z-index: 6;
+    margin-left: 120px;
+}
+.line6{
+    display: flex;
+}
+.line7{
+    display: grid;
+    justify-content: space-around;
+    margin: 20px;
+}
+.date{
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    width: 100px;
+}
+ img{
+    width: 100px;
+    height: 90px;
+ }   
+}
