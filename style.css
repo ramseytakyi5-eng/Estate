@@ -265,9 +265,6 @@ margin-top: 40px;
     width: 350px;
     height: 400px;
 }
-.line7{
-    border: solid;
-}
 
 .dat > p{
     width: 230px;
@@ -280,13 +277,18 @@ margin-top: 40px;
     margin-top: 40px;
     font-size: 17px;
 }
+.lin > img{
+    width: 1100px;
+}
 .arrow{
     background-color: blue;
     width: 30px;
     height: 30px;
     margin: 30px;
     border: none;
-    margin-top: 40px;
+    margin-top: -90px;
+    margin-right: -200;
+
 }
 .line8a{
     display: flex;
@@ -305,12 +307,11 @@ margin-top: 40px;
     display: flex;
     justify-content: space-around;
     margin: 20px;
-    border: none;
-    position: absolute;
     background-color: black;
     height: 460px;
     width: 964px;
-    motion-rotation: -180deg;
+    margin-bottom: -400px;
+
 }
 .profile{
     background-color: white;

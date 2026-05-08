@@ -45,6 +45,9 @@ margin-top: 25px;
     margin-left: 100px;
 
 }
+.pro > img{
+    width: 200px;
+}
 .house1 > img{
     width: 340px;
     margin-left: 100px;
@@ -141,13 +144,17 @@ button{
     width: 75px;
     height: 24px;
 }
+.letter > h1{
+    font-size: 10px;
+    margin-left: -235px;
+}
+.letter > p{
+    margin-left: -235px;
+    font-size: 10px;
+    width: 80px;
+}
 .letter{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-around;
-    margin: 20px;
-    width: 75px;
-    margin-top: 90px;
+    margin: 10px;
 }
 .name{
     width: 45px;
@@ -182,62 +189,187 @@ button{
     justify-content: space-around;
     margin: 10px;
 }
-.one{
+.line3 > h1{
+    margin-right: 40px;
+    font-size: 10px;  
+}
+.one > img{
     position: absolute;
     z-index: 2;
+    width: 40px;
+    height: 50px;
+    margin-top: -1px;
+    margin-left: -220px;
 }
-.two{
+.two > img{
     position: absolute;
     z-index: 3;
-    margin: 20px;
+    width: 30px;
+    height: 30px;
+    margin-top: -8px;
+    margin-left: -235px;
 }
-.three{
+.three > img{
     position: absolute;
     z-index: 1;
-    margin: -10px;
+    width: 60px;
+    height: 70px;
+    margin-bottom: -150px;
+    margin-left: -220px;
+}
+.floor{
+margin-left: -90px;
+}
+.floor1{
+    margin-left: -220px;
+}
+.floor2{
+    margin-left: -230px;
+}
+.floor3{
+    margin-left: -240px;
 }
 .line4{
     display: flex;
     justify-content: space-evenly;
     margin-left: 180px;
     margin: 20px;
+
 }
 .line5{
     display: flex;
     justify-content: space-evenly;
-    margin-left: 180px;
-    margin: 20px;
+    margin: 10px;
 }
-.four{
-    z-index: 4;
-    margin-left: -60px;
+.four > img{
+    width: 300px;
+    margin-left: -250px;
+    height: 400px;
 }
-.five{
-    z-index: 5;
- position: absolute;
-    margin-right: 200px;
-    margin-top: 50px;
+.five > img{
+    margin-right: 300px;
+    margin-top: -90px;
+    width: 170px;
+    height: 220px;
 }
-.six{
-    z-index: 6;
-    margin-left: 120px;
+.name > h1{
+    font-size: 18px;
+    margin-top: -4px;
+    margin-left: -40px;
 }
-.line6{
-    display: flex;
+.name > p{
+    width: 150px;
+    margin-left: -56px;
+    font-size: 13px;
+    margin-top: -7px;
 }
-.line7{
-    display: grid;
-    justify-content: space-around;
-    margin: 20px;
+.name > img{
+    width: 60px;
+    height: 60px;
+    margin-top: -240px;
+    margin-left: -25px;
 }
-.date{
-    display: flex;
-    justify-content: space-around;
-    margin: 20px;
+.six > img{
+    width: 190px;
+    height: 410px;
+    margin-left: -390px;
+
+}
+.line6A > h1{
+    font-size: 20px;
+    width: 90px;
+}
+.line6A > p{
+    font-size: 15px;
+    width: 220px;
+    margin-top: -10px;
+}
+.line6A > img{
     width: 100px;
+    height: 60px;
 }
- img{
+.line6B > img{
+    width: 300px;
+    height: 400px;
+}
+.line7A > img{
+    width: 150px;
+    height: 200px;
+}
+.dateA > h1{
+    font-size: 20px;
+    margin-top: -9px;
+    }
+.dateA > p{
+    margin-top: -10px;
+}
+.right > p{
+    width: 125px;
+    font-size: 13px;
+    margin-top: -3px;
+}
+.dat > p{
+    width: 150px;
+    font-size: 13px;
+}
+.lin > img{
+    width: 600px;
+}
+.line8a{
+    width: 150px;
+    height: 70px;
+    margin-right: -10px;
+}
+.line8a > h1{
+  font-size: 15px; 
+  width: 130px;
+}
+.line8a > p{
+    font-size: 13px;
+
+}
+.arrow{
+ margin-left: -22px; 
+ width: 25px;
+ height: 20px; 
+
+}
+.arrow > img{
+    width: 20px;
+}
+.page9{
+    width: 600px;
+    margin-left: -5px;
+}
+.line9a > img{
+    width: 260px;
+    height: 300px;
+    margin-left: -1px;
+}
+.profile > h1{
+    font-size: 15px;
+    margin-top: -2px;
     width: 100px;
+    margin-left: 19px;
+}
+.profile > p{
+    font-size: 12px;
+    width: 170px;
+    margin-left: -2px;
+}
+.profile{
+    width: 170px;
     height: 90px;
- }   
+   margin-right: 60px;
+}
+.detail{
+    width: 300px;
+    height: 200px;
+}
+.detail > h3{
+    font-size: 25px;
+}
+.detail > p{
+     font-size: 20px;
+}
 }
